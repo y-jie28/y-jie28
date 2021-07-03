@@ -10,7 +10,7 @@ y-jie28/y-jie28 is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-✨ _Moving from old Github... You can find some of my older projects [here](www.github.com/yjie28) if you are interested..._ ✨
+✨ _Moving from old Github... You can find some of my older projects @ www.github.com/yjie28 if you are interested..._ ✨
 
 I'm Yiying, a Full Stack / Front End Developer. Currently learning Vue.js, which is what you'll primarily find here (for now). 
 
